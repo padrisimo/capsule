@@ -23,7 +23,7 @@ function App() {
 
   const toggleSandMode = () => {
     setSandMode(!sandMode);
-    unityContext.send("Plane", "ToggleSandMode", !sandMode ? 1 : 0);
+    unityContext.send("Capsule", "ToggleSandMode", !sandMode ? 1 : 0);
   };
 
   return (
