@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/padrisimo/capsule/static/css/main.a214ba7d.chunk.css",
+    "main.js": "/padrisimo/capsule/static/js/main.4d134b4d.chunk.js",
+    "main.js.map": "/padrisimo/capsule/static/js/main.4d134b4d.chunk.js.map",
+    "runtime-main.js": "/padrisimo/capsule/static/js/runtime-main.bfeb06ee.js",
+    "runtime-main.js.map": "/padrisimo/capsule/static/js/runtime-main.bfeb06ee.js.map",
+    "static/js/2.e4e6d399.chunk.js": "/padrisimo/capsule/static/js/2.e4e6d399.chunk.js",
+    "static/js/2.e4e6d399.chunk.js.map": "/padrisimo/capsule/static/js/2.e4e6d399.chunk.js.map",
+    "static/js/3.eea5b105.chunk.js": "/padrisimo/capsule/static/js/3.eea5b105.chunk.js",
+    "static/js/3.eea5b105.chunk.js.map": "/padrisimo/capsule/static/js/3.eea5b105.chunk.js.map",
+    "index.html": "/padrisimo/capsule/index.html",
+    "static/css/main.a214ba7d.chunk.css.map": "/padrisimo/capsule/static/css/main.a214ba7d.chunk.css.map",
+    "static/js/2.e4e6d399.chunk.js.LICENSE.txt": "/padrisimo/capsule/static/js/2.e4e6d399.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfeb06ee.js",
+    "static/js/2.e4e6d399.chunk.js",
+    "static/css/main.a214ba7d.chunk.css",
+    "static/js/main.4d134b4d.chunk.js"
+  ]
+}
