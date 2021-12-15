@@ -1,3 +1,3 @@
 # React Unity Playground
 
-![image](https://media.giphy.com/media/PDsgxQoXvUZGg/giphy.gif)
+[![image](https://media.giphy.com/media/PDsgxQoXvUZGg/giphy.gif)](#)
